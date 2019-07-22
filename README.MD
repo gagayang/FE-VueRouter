@@ -1,4 +1,4 @@
-#vue-router的源码分析
+# vue-router的源码分析
 
 vue-router 大家都不陌生了。这个是vue的路由导航。这个作者呢也是vue的作者尤雨溪  Evan You
 
